@@ -1,2 +1,2 @@
 #!/bin/bash
-:njhkj
+export /action="$HOME/bin:$PATH"/action
