@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "tmp/iamafile"
+file_name="imafile"
+if [ -e "$file_name" ]; then
+	file "$file_name"
+else
+	printf "%s.\n" 
