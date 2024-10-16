@@ -1,2 +1,2 @@
-#!/bin/bas
-printf (imafile/tmp)
+#!/bin/bash
+printf "iamafile" /tmp 
