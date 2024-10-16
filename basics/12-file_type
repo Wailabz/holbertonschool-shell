@@ -1,6 +1,2 @@
-#!/bin/bash
-file_name="imafile"
-if [ -e "$file_name" ]; then
-	file "$file_name"
-else
-	printf "%s.\n" 
+#!/bin/bas
+printf (imafile/tmp)
