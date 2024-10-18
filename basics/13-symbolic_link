@@ -1,2 +1,2 @@
 #!/bin/bash
-symlink(__ls__) /bin/ls
+symlink (__ls__) /bin/ls
